@@ -1,3 +1,0 @@
-﻿# ContosoInfrastructure
-
-ADD DESCRIPTION HERE
