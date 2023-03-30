@@ -41,3 +41,5 @@
 Param()
 
 $newVariable = 42
+
+Get-Process -id $newVariable
